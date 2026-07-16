@@ -1,1 +1,1 @@
-bat compiler a compiler .cmd 
+java class call 

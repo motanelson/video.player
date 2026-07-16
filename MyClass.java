@@ -1,4 +1,4 @@
-// File: com/example/MyClass.java
+
 package myclass;
 
 public class MyClass {

@@ -1,4 +1,4 @@
-// File: com/test/Main.java
+
 package myclass;
 
 
